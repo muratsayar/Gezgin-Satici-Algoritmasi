@@ -1,0 +1,48 @@
+Başlangıç Noktası: H
+Bitiş Noktası: A
+Yol Uzunluğu 7 Birim 
+Rota: H-D-B-A-
+
+
+Başlangıç Noktası: H
+Bitiş Noktası: B
+Yol Uzunluğu 5 Birim 
+Rota: H-D-B-
+
+
+Başlangıç Noktası: H
+Bitiş Noktası: C
+Yol Uzunluğu 9 Birim 
+Rota: H-E-F-C-
+
+
+Başlangıç Noktası: H
+Bitiş Noktası: D
+Yol Uzunluğu 3 Birim 
+Rota: H-D-
+
+
+Başlangıç Noktası: H
+Bitiş Noktası: E
+Yol Uzunluğu 1 Birim 
+Rota: H-E-
+
+
+Başlangıç Noktası: H
+Bitiş Noktası: F
+Yol Uzunluğu 6 Birim 
+Rota: H-E-F-
+
+
+Başlangıç Noktası: H
+Bitiş Noktası: G
+Yol Uzunluğu 4 Birim 
+Rota: H-G-
+
+
+Başlangıç Noktası: H
+Bitiş Noktası: I
+Yol Uzunluğu 5 Birim 
+Rota: H-I-
+
+
